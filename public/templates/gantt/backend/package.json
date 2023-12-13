@@ -9,7 +9,7 @@
   "author": "DHTMLX",
   "license": "DHTMLX Evaluation License",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.2",
     "express": "^4.16.4",
     "striptags": "^3.1.1"
   }
