@@ -7,7 +7,7 @@
   "author": "Stisla Team <nauvalazhar2@gmail.com> (https://getstisla.com)",
   "license": "MIT",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.7.2",
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "bootstrap": "^4.2.1",
     "bootstrap-colorpicker": "^3.0.3",
     "bootstrap-daterangepicker": "^3.0.3",
