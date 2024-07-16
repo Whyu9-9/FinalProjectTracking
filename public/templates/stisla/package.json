@@ -8,8 +8,8 @@
   "license": "MIT",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.7.2",
-    "bootstrap": "^4.2.1",
-    "bootstrap-colorpicker": "^3.0.3",
+    "bootstrap": "^5.0.0",
+    "bootstrap-colorpicker": "^3.4.0",
     "bootstrap-daterangepicker": "^3.0.3",
     "bootstrap-social": "^5.1.1",
     "bootstrap-tagsinput": "^0.7.1",
